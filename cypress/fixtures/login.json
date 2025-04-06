@@ -1,0 +1,6 @@
+{
+    "validEmail": "test@maddox123.ai",
+    "validPassword": "supersecure",
+    "invalidEmail": "raja@supersecure.ai",
+    "invalidPassword": "raja@raja"
+}
